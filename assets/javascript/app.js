@@ -173,7 +173,7 @@ $(document).ready(function(){
 //Timer
 $(document).ready(function() {
 	start();
-    var time = 10;
+    var time = 60;
  
  function reset() {
    time = 0;
